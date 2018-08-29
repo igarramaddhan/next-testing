@@ -7,4 +7,4 @@ const user = {
 };
 
 const UserContext = React.createContext(user);
-export { ContextProps, UserContext };
+export { UserContext };
